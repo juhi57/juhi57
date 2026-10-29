@@ -2,10 +2,10 @@
 
 Backend developer building reliable APIs and data-driven systems, now focused on bringing **machine learning into production**.
 
-- 🔧 **Currently:** [Role] at [Company], working on [one line: e.g. "payment APIs serving 1M+ requests/day"]
+- 🔧 **Currently:** Python Developer at US based cybersecurity Startup, working on Python APIS AWS Lambda Docker Cybersecurirty tools
 - 🧠 **Exploring:** LLM applications, RAG, and ML model serving
 - 📍 Ahmedabad, India · Open to backend / ML engineering roles
-- 📫 [your.email@example.com] · [LinkedIn](https://linkedin.com/in/your-handle) · [Portfolio](https://your-site.com)
+- 📫 juhilimbani57@gmail.com · https://www.linkedin.com/in/juhi-limbani-3b8028241/ · [Portfolio](loading)
 
 ---
 
@@ -30,4 +30,4 @@ Backend developer building reliable APIs and data-driven systems, now focused on
 ---
 
 ### ✍️ Elsewhere
-- Writing about what I build: [blog / dev.to / Medium link]
+- Writing about what I build: (loading...)
