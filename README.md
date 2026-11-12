@@ -5,7 +5,7 @@ Backend developer building reliable APIs and data-driven systems, now focused on
 - 🔧 **Currently:** Python Developer at US based cybersecurity Startup, working on Python APIS AWS Lambda Docker Cybersecurirty tools
 - 🧠 **Exploring:** LLM applications, RAG, and ML model serving
 - 📍 Ahmedabad, India · Open to backend / ML engineering roles
-- 📫 juhilimbani57@gmail.com · https://www.linkedin.com/in/juhi-limbani-3b8028241/ · [Portfolio](loading)
+- 📫 juhilimbani57@gmail.com · https://www.linkedin.com/in/juhi-limbani-3b8028241/ · https://portfolio-eosin-ten-26.vercel.app/
 
 ---
 
